@@ -1,5 +1,5 @@
 # Movie-Subreddit-Data-Streaming-with-Spark-and-Kafka
-This guide walks you through setting up a data pipeline that captures movies subreddit data, processes it, and visualizes it using various tools.
+This guide walks you through setting up a data pipeline that captures data from movies subreddit, processes it, and visualizes it using various tools.
 
 ## Prerequisites
 Before starting, make sure you have all required tools installed (Kafka, Zookeeper, Python, PySpark, Elasticsearch, Kibana, and Logstash).
